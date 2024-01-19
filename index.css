@@ -1,0 +1,51 @@
+body{
+    background-image: url(img/fundo-spider.jpg); 
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 50px
+}
+.cabeçalho{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    padding: 100px;
+    padding-top: 20px;
+    font-size: 25px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+img{
+    border-radius: 20px;
+    margin-left: 200px;
+}
+@media w {
+    
+}
